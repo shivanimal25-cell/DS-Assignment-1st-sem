@@ -36,3 +36,14 @@ int main()
  
  return 0;
 }
+
+Output:
+-------- LIBRARY BOOKS --------
+Book ID: 6567
+Book Title: Wakhanda forever
+
+Book ID: 908
+Book Title: DataStructure
+
+Book ID: 100
+Book Title: How to become successful 
