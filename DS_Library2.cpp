@@ -29,3 +29,25 @@ int main()
 
     return 0;
 }
+
+Output:                    
+Enter 5 Book IDs:
+920
+100
+234
+456
+999
+
+Enter Book ID to search: 234
+Book Found!
+                     
+Enter 5 Book IDs:
+920
+100
+234
+456
+999
+
+Enter Book ID to search: 111
+Book Not Found!
+
