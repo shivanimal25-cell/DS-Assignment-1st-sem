@@ -21,3 +21,19 @@ int main()
     }      
     return 0; 
 }
+
+Output:
+
+Enter 5 customer order numbers:
+2546
+57435
+3574
+548
+534
+
+Processing Orders:
+Processing Order: 2546
+Processing Order: 57435
+Processing Order: 3574
+Processing Order: 548
+Processing Order: 534
