@@ -44,3 +44,14 @@ int main()
     menu();      
     return 0; 
 }
+
+Output:
+
+1. Pizza
+2. Burger
+3. Pasta
+4. Exit
+Enter your choice: 4. Exit
+
+Thank you!
+
