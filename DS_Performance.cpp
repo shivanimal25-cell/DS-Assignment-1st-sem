@@ -19,3 +19,17 @@
     }
     return 0;
 } 
+Output:
+Enter Roll Numbers of 5 students:
+21
+11
+08
+41
+16
+
+Student Roll Numbers:
+21
+11
+8
+41
+16
