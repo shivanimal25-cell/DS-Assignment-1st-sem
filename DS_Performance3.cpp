@@ -34,3 +34,18 @@ int main()
     }
          return 0;
 } 
+
+Output:
+Enter marks of 5 students:
+90
+55
+80
+81
+92
+
+Student Ranking based on Marks:
+92
+90
+81
+80
+55
