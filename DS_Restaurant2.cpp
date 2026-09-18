@@ -18,3 +18,19 @@ int main()
     }      
     return 0; 
 }
+
+Output:
+
+Enter 5 cancelled order numbers:
+564
+543
+354
+633
+666
+
+Recently Cancelled Orders:
+666
+633
+354
+543
+564
