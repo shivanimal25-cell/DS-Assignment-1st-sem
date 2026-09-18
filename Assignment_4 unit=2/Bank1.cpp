@@ -24,3 +24,18 @@ int main()
 
     return 0;
 }
+
+Output:
+Enter 5 customer token numbers:
+02
+45
+67
+56
+50
+
+===== CUSTOMER SERVICE =====
+Serving Token: 2
+Serving Token: 45
+Serving Token: 67
+Serving Token: 56
+Serving Token: 50
