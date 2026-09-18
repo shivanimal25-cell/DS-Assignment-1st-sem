@@ -11,3 +11,7 @@ int main()
     cout<<"After swapping: a="<<a<<" b="<<b<<endl;
     return 0;
 }
+
+Output:
+Before swapping: a=2 b=3
+After swapping: a=3 b=2
