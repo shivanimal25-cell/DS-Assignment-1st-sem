@@ -23,3 +23,18 @@ int main()
     }      
     return 0; 
 }
+
+Output:
+Enter 5 served customer token numbers:
+9
+7
+5
+5
+3
+
+===== SERVICE HISTORY =====
+Token: 3
+Token: 5
+Token: 5
+Token: 7
+Token: 9
