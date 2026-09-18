@@ -34,3 +34,25 @@ int main()
 
      return 0;
 }
+
+Output:                      
+Enter Roll Numbers of 5 students:
+925
+567
+001
+961
+333
+
+Enter Roll Number to search: 001
+Student Found!
+                       
+Enter Roll Numbers of 5 students:
+925
+567
+001
+961
+333
+
+Enter Roll Number to search: 999
+Student Not Found!
+
