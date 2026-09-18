@@ -39,3 +39,15 @@ int main()
 
  return 0;
 }
+
+Output:
+Enter IDs of 5 Library Books:
+4343
+456
+6578
+4237
+879
+
+Book IDs in Ascending Order:
+456 879 4237 4343 6578 
+
